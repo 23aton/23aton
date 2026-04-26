@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 👋 Welcome to my GitHub page! 
+I am a third-year undergraduate student at UC Irvine, majoring in Software Engineering. I love to develop games and dabble with HTML & CSS in my spare time, and hope to pursue a career as a full-time software developer.
 <!--
 **23aton/23aton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
